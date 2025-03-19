@@ -1,4 +1,4 @@
 <?php
 
 echo 'Hello world';
-echo 'Something wrong';
+echo 'Something wrong with last string';
